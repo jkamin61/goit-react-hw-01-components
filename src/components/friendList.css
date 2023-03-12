@@ -1,0 +1,36 @@
+.friend-container {
+  background-color: #E7ECF2;
+}
+
+.friend-status {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+.friend-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.friend-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+  width: 350px;
+  margin: auto auto 10px;
+  padding: 0 10px;
+  gap: 10px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.friend-name {
+  font-size: 26px;
+  font-weight: bold;
+}

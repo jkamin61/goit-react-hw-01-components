@@ -7,7 +7,14 @@
   width: 14px;
   height: 14px;
   border-radius: 50%;
+}
+
+.status-online {
   background-color: green;
+}
+
+.status-offline {
+  background-color: red;
 }
 
 .friend-list {

@@ -45,3 +45,23 @@
   color: white;
   font-weight: bold;
 }
+
+.item-blue {
+background-color: #4FC5F3;
+}
+
+.item-purple {
+background-color: #A63BF2;
+}
+
+.item-red {
+background-color: #E54D64;
+}
+
+.item-green {
+  background-color: #52CBD4;
+}
+
+.item-default {
+  background-color: white;
+}
